@@ -1,0 +1,16 @@
+C:\Users\Paulette\Desktop\Proyecto_TDB1\Proyecto_TDB1\bin\x64\Debug\Proyecto_TDB1.exe
+C:\Users\Paulette\Desktop\Proyecto_TDB1\Proyecto_TDB1\bin\x64\Debug\Proyecto_TDB1.pdb
+C:\Users\Paulette\Desktop\Proyecto_TDB1\Proyecto_TDB1\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Paulette\Desktop\Proyecto_TDB1\Proyecto_TDB1\obj\x64\Debug\Proyecto_TDB1.Form1.resources
+C:\Users\Paulette\Desktop\Proyecto_TDB1\Proyecto_TDB1\obj\x64\Debug\Proyecto_TDB1.Properties.Resources.resources
+C:\Users\Paulette\Desktop\Proyecto_TDB1\Proyecto_TDB1\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\Paulette\Desktop\Proyecto_TDB1\Proyecto_TDB1\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\Paulette\Desktop\Proyecto_TDB1\Proyecto_TDB1\obj\x64\Debug\Proyecto_TDB1.exe
+C:\Users\Paulette\Desktop\Proyecto_TDB1\Proyecto_TDB1\obj\x64\Debug\Proyecto_TDB1.pdb
+C:\Users\Paulette\Desktop\Proyecto_TDB1\Proyecto_TDB1\bin\x64\Debug\System.Data.OracleClient.dll
+C:\Users\Paulette\Desktop\Proyecto_TDB1\Proyecto_TDB1\obj\x64\Debug\Proyecto_TDB1.Form2.resources
+C:\Users\Paulette\Desktop\Proyecto_TDB1\Proyecto_TDB1\obj\x64\Debug\Proyecto_TDB1.Form3.resources
+C:\Users\Paulette\Desktop\Proyecto_TDB1\Proyecto_TDB1\obj\x64\Debug\Proyecto_TDB1.indices.resources
+C:\Users\Paulette\Desktop\Proyecto_TDB1\Proyecto_TDB1\obj\x64\Debug\Proyecto_TDB1.views.resources
+D:\Navy Documents\u\Teoria de Base de Datos I\Proyecto_TDB1\Proyecto_TDB1\obj\x64\Debug\Proyecto_TDB1.exe
+D:\Navy Documents\u\Teoria de Base de Datos I\Proyecto_TDB1\Proyecto_TDB1\obj\x64\Debug\Proyecto_TDB1.pdb
